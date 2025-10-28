@@ -8,6 +8,3 @@ This is a simple console sqlite database editor based on Python
 
 ### PrettyTable
 `pip install prettytable`
-
-### My website :З
-http://yours.ilpur.ml
